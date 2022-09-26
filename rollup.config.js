@@ -27,7 +27,7 @@ var serverPath
 if ((process.env.BUILD !== 'production')) {
   componentPath = ""
     // your ngrok host name for local testing
-    serverPath = "https://blair-vue-apps.ngrok.io";
+    serverPath = "https://bec1-2610-148-1f02-3000-9c2f-9274-a36c-7596.ngrok.io";
 } else {
     serverPath = "https://resources.realitymedia.digital";
 }

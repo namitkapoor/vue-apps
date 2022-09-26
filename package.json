@@ -17,12 +17,13 @@
   },
   "dependencies": {
     "@etherealjs/web-layer": "^3.5.4",
+    "detect-browser": "^5.3",
+    "fast-text-encoding": "latest",
+    "mathjs": "^9.4.2",
+    "ngrok": "^4.3.3",
     "reveal.js": "^4",
     "three": "^0.136.0",
-    "vue": "^3.0.5",
-    "mathjs": "^9.4.2",
-    "detect-browser": "^5.3",
-    "fast-text-encoding": "latest"
+    "vue": "^3.0.5"
   },
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^13.0.0",
